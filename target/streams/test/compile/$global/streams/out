@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/media/hadoop/foo-build/src/test/scala/HelloSpec.scala:3:39: not found: type DiagrammeAssertions[0m
+[0m[[0m[31merror[0m] [0m[0mclass HelloSpec extends FunSuite with DiagrammeAssertions {[0m
+[0m[[0m[31merror[0m] [0m[0m                                      ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
