@@ -68,3 +68,5 @@ projects
 reload
 run
 exit
+scalaVersion
+projects 
